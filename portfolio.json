@@ -1,0 +1,195 @@
+{
+  "id": "c41c9f2a-e586-4e8b-92dd-8c3da4800b16",
+  "name": "Anthony Zappala",
+  "title": "Chemical Engineer",
+  "bio": "Chemical engineering graduate with experience in process design, electrochemistry, and automation, passionate about sustainable industrial transformation.",
+  "aboutText": "A dedicated chemical engineer with a strong foundation in chemical processes, data analysis, and workflow optimization. I hold a B.S. from Northeastern University with honors and have gained practical experience through co-op roles in process and electrochemical engineering, utilizing tools like Python, SQL, and Aspen Plus to develop innovative solutions.\n\nMy technical approach involves leveraging programming, simulation, and analytical techniques to improve process efficiency and develop advanced materials. I am experienced in designing automation tools, analyzing complex data sets, and collaborating with multidisciplinary teams to drive technological advancements and sustainable practices.",
+  "projectsDescription": "Explore some of my recent work and personal projects that showcase my skills and passion for development.",
+  "contactIntro": null,
+  "footerDescriptors": [
+    "Innovation",
+    "Problem Solving",
+    "Collaboration"
+  ],
+  "theme": "default",
+  "themeColors": {
+    "text": "#1F2937",
+    "accent": "#F3F4F6",
+    "primary": "#0B3D91",
+    "secondary": "#17A2B8",
+    "background": "#FFFFFF"
+  },
+  "headshotImage": "",
+  "resumeUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/c41c9f2a-e586-4e8b-92dd-8c3da4800b16/documents/resume-1760471678682_1A9MC7Wct.pdf",
+  "resumeFilename": "AZ_resume_H2Ok.pdf",
+  "referencesUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/c41c9f2a-e586-4e8b-92dd-8c3da4800b16/documents/references-1760471686069_76Wkmy3Mo.pdf",
+  "referencesFilename": "AZ_references_8_13_25.pdf",
+  "skillsDisplayMode": "categories",
+  "sectionOrder": [
+    "hero",
+    "about",
+    "projects",
+    "timeline",
+    "contact",
+    "theme"
+  ],
+  "projects": [],
+  "timeline": [
+    {
+      "id": "98bd2433-adfe-4e07-9d5c-d2ce27794868",
+      "year": "2021-2022",
+      "title": "Lab Assistant",
+      "organization": "Koppes LNNR Lab",
+      "type": "experience",
+      "description": "Built skills in cell culture, neuron imaging, and recording neuron data from multielectrode arrays. Conducted independent project fabricating and analyzing organ-on-chips with custom meniscus-forming layer for dual-hydrogel chip. Synthesized hydrogels and cultured neurons for testing of neuron spike data."
+    },
+    {
+      "id": "66537fae-7209-400c-9cfb-4d273a8d63d9",
+      "year": "2022-2023",
+      "title": "Electrochemical Engineering Co-op",
+      "organization": "24M Technologies",
+      "type": "experience",
+      "description": "Collaborated with senior engineers on the development of traditional silicon anode technology by screening different silicon materials and optimizing slurry formulations for quality and performance. Evaluated silicon, graphite, and carbon materials using analytical techniques and half-cell testing; presented findings to partner companies and the 24M Advanced R&D team. Constructed and tested traditional and ‘semi-solid’ style batteries and investigated the effects of formulation, electrolyte, and test protocol on electrochemical metrics. Developed custom python scripts for processing of battery performance data."
+    },
+    {
+      "id": "fdd2deb0-462c-484f-94ee-6b29ee6d615c",
+      "year": "2023-2025",
+      "title": "Process Engineering Co-op",
+      "organization": "Technip Energies",
+      "type": "experience",
+      "description": "Created programs in Python and SQL for process automation and improved efficiency; used feedback from senior engineers to tailor programs for seamless workflow. Reviewed and edited various technical documents such as P&IDs, PFDs, BODs, and water balances for critical client deliverables. Analyzed, evaluated, and improved calculations on process equipment such as drums, distillation columns, and pumps, utilizing Excel, KG Tower, PD Plus, and other process simulation software."
+    },
+    {
+      "id": "9a6a0200-90ab-41d9-9e6d-3f0018d2e2b3",
+      "year": "2025-05-01",
+      "title": "Bachelor of Science in Chemical Engineering",
+      "organization": "Northeastern University",
+      "type": "education",
+      "description": "Summa Cum Laude, University Honors Program, Shillman Award Recipient"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "id": "programming_and_software",
+        "name": "Programming and Software",
+        "displayOrder": 0,
+        "icon": "star"
+      },
+      {
+        "id": "laboratory_and_electrochemical_techniques",
+        "name": "Laboratory and Electrochemical Techniques",
+        "displayOrder": 1,
+        "icon": "star"
+      }
+    ],
+    "skills": {
+      "programming_and_software": [
+        "Python",
+        "SQL",
+        "Excel VBA",
+        "Simulink",
+        "Minitab",
+        "JMP",
+        "Microsoft Office",
+        "Aspen Plus",
+        "Tableau",
+        "AutoCAD",
+        "SolidWorks",
+        "Adobe Illustrator"
+      ],
+      "laboratory_and_electrochemical_techniques": [
+        "SEM",
+        "EDS",
+        "PSA",
+        "Pycnometry",
+        "Rheology",
+        "Conductivity",
+        "Battery Assembly",
+        "Rate Testing",
+        "EIS",
+        "Microscopy",
+        "Fluorescence Imaging",
+        "Live-Dead Quantification",
+        "Neuron Spike Train Analysis"
+      ]
+    }
+  },
+  "contact": {
+    "email": "anthonyzappala1@gmail.com",
+    "phone": "508-530-8842",
+    "linkedin": "",
+    "areasOfInterest": [
+      "Sustainable industrial processes",
+      "AI-driven solutions",
+      "Data analysis",
+      "Process optimization"
+    ]
+  },
+  "links": {
+    "github": "",
+    "website": ""
+  },
+  "references": [
+    {
+      "id": "d6eb2584-aa84-484d-be46-c35ad64f2fd7",
+      "name": "Elizabeth Lefevre",
+      "title": "Director of Process Engineering",
+      "company": "Technip Energies",
+      "email": "elefevre@verizon.net",
+      "phone": "(857) 222-6438",
+      "relationship": "Former Co-op Manager",
+      "testimonial": null
+    },
+    {
+      "id": "de7dfa45-423b-4add-aafc-5658f0ebc88c",
+      "name": "Fraser Benjamin Reichner",
+      "title": "Process Engineer",
+      "company": "Technip Energies",
+      "email": "benjamin.reichner@ten.com",
+      "phone": "(215) 429-4293",
+      "relationship": "Former Co-op Coworker and Mentor",
+      "testimonial": null
+    },
+    {
+      "id": "2376d470-4408-4dac-b649-a5bbd7873b93",
+      "name": "Daniel Carter",
+      "title": "Process Engineer",
+      "company": "Technip Energies",
+      "email": "benjamin.reichner@ten.com",
+      "phone": "",
+      "relationship": "Former Co-op Coworker and Mentor",
+      "testimonial": null
+    },
+    {
+      "id": "6edee797-248a-42fb-9ae4-abb7f9a54a0a",
+      "name": "Dr. Xiaoming Liu, Ph.D.",
+      "title": "Advanced R&D Manager",
+      "company": "24M Technologies",
+      "email": "xliu@24-m.com",
+      "phone": "",
+      "relationship": "Former Co-op Manager",
+      "testimonial": null
+    },
+    {
+      "id": "b2c5f488-c65d-44ec-b80e-2092690f0824",
+      "name": "Mr. Daniel Salazar",
+      "title": "Battery Engineer",
+      "company": "24M Technologies",
+      "email": "dsalazar@24-m.com",
+      "phone": "",
+      "relationship": "Former Co-op Coworker and Mentor",
+      "testimonial": null
+    },
+    {
+      "id": "8bbaac4b-6f19-4b40-bd87-7b931ba3b735",
+      "name": "Dr. Kyla Nichols",
+      "title": "Postdoctoral Fellow at Ribbeck Lab at MIT",
+      "company": "",
+      "email": "nichols.ky@northeastern.edu",
+      "phone": "(413)-329-9774",
+      "relationship": "Former Research Mentor at Northeastern",
+      "testimonial": null
+    }
+  ]
+}
